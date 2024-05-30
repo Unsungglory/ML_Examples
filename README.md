@@ -1,0 +1,1 @@
+### This directory contains several Deep Learning examples. These are intended to show coding styles and a preview of proficiencies. If You would love the dataset to run yourself, please reach out and I will send it. 
